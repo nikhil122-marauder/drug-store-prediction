@@ -14,9 +14,10 @@ The key objective is to develop a robust predictive model that can estimate dail
 |------|-------------|
 | `DrugStore-Prediction.ipynb` | Main Python notebook containing code for data preprocessing, feature engineering, EDA, model training, and prediction. |
 | `analysis_and_methodology.md` | Detailed description of the analysis strategy, EDA findings, modeling techniques, and performance evaluation. |
-| `train.csv` | Historical sales data from 01/01/2013 to 31/07/2015. Contains fields like store ID, sales, number of customers, promotions, and holidays. |
-| `test.csv` | Identical format to `train.csv`, covering the period 01/08/2015 to 17/09/2015, but without sales and customer values. |
-| `store.csv` | Metadata for each store, including store type, assortment level, competition details, and participation in ongoing promotions. |
+| `Dataset.zip` | Compressed folder containing the original data files: `train.csv`, `test.csv`, and `store.csv`. |
+  | `train.csv` | Historical sales data from 01/01/2013 to 31/07/2015. Contains fields like store ID, sales, number of customers, promotions, and holidays. |
+  | `test.csv` | Identical format to `train.csv`, covering the period 01/08/2015 to 17/09/2015, but without sales and customer values. |
+  | `store.csv` | Metadata for each store, including store type, assortment level, competition details, and participation in ongoing promotions. |
 
 ## Tools Used
 

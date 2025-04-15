@@ -48,7 +48,7 @@ Exploratory correlation led to the selection of the following features:
 
 ---
 
-## 📊 Exploratory Data Analysis (EDA)
+## Exploratory Data Analysis (EDA)
 
 ### Key Findings:
 
